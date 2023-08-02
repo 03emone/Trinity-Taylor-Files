@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>239365</id>
+      <size>16</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-07-24 19:49:11.364778+00:00</created>
+      <updated>2023-07-24 20:38:06.946599+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>15</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>239440</id>
+          <start>0</start>
+          <stop>15</stop>
+          <url>https://app.cvat.ai/api/jobs/239365</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>03emone</username>
+        <email>03emone@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Raw Outline</name>
+          <color>#733380</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Minimum Circle</name>
+          <color>#cc3366</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Maximum Circle</name>
+          <color>#3d3df5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>scale bar</name>
+          <color>#fafa37</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-07-24 20:38:22.780439+00:00</dumped>
+  </meta>
+  <image id="9" name="Taylor-FormationBlastWave-1950-II000000000.jpeg-10.jpg" width="1300" height="2045">
+    <box label="scale bar" source="manual" occluded="0" xtl="172.12" ytl="1697.33" xbr="564.76" ybr="1710.42" z_order="0">
+    </box>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="895.88" cy="331.34" rx="158.06" ry="158.03" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="898.12" cy="330.16" rx="145.58" ry="145.59" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="896.10" cy="549.22" rx="165.63" ry="165.28" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="898.12" cy="546.89" rx="151.68" ry="151.66" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="895.54" cy="767.65" rx="172.10" ry="171.85" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="897.70" cy="766.62" rx="164.10" ry="164.08" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="896.95" cy="994.52" rx="179.95" ry="179.93" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="894.90" cy="985.17" rx="164.35" ry="164.63" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="896.30" cy="1201.05" rx="185.25" ry="185.60" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="896.97" cy="1198.40" rx="167.33" ry="167.65" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="895.35" cy="1423.90" rx="189.89" ry="189.90" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="893.29" cy="1419.90" rx="173.94" ry="173.95" z_order="0">
+    </ellipse>
+    <ellipse label="Maximum Circle" source="manual" occluded="0" cx="896.63" cy="1635.74" rx="196.23" ry="195.87" z_order="0">
+    </ellipse>
+    <ellipse label="Minimum Circle" source="manual" occluded="0" cx="898.55" cy="1636.75" rx="183.95" ry="183.90" z_order="0">
+    </ellipse>
+  </image>
+</annotations>
